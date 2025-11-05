@@ -30,7 +30,7 @@ function App() {
     setLoading(true)
     try {
       // setMessages([...messages ,{role:"user" , content:input}])
-      const response = await axios.post("http://localhost:5000/api/chat", {
+      const response = await axios.post("https://devechat-server.vercel.app/api/chat", {
         message: input,
       });
       const data = response.data;
