@@ -1,16 +1,35 @@
-# React + Vite
+<img width="1078" height="908" alt="DevchatCopy" src="https://github.com/user-attachments/assets/669dd4e7-51cc-4596-9475-fbdb1f4a3159" /># 💬 DevChat AI Bot
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+DevChat AI Bot is an intelligent and responsive chat application built using **React** (frontend) and **Express.js** (backend).  
+It integrates with the **OpenAI API** to provide real-time, human-like conversation experiences.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## React Compiler
+- 🤖 **AI-Powered Chat** – Communicate seamlessly with an AI powered by OpenAI.  
+- 💻 **Full-Stack Architecture** – Built with React (frontend) and Express (backend).  
+- 🎨 **Responsive Design** – Fully optimized for mobile and desktop screens.  
+- ⚡ **Real-Time Chat** – Smooth user and AI message flow with auto-scrolling.  
+- 🧭 **Typing Indicator** – Displays when AI is generating a response.  
+- 🧠 **Clean UI/UX** – Minimal and modern chatbot interface using Bootstrap & custom CSS.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Live Demo :- https://devchat-com.vercel.app/
+
+## 🛠️ Tech Stack
+
+**Frontend:**
+- React.js  
+- Bootstrap / Custom CSS  
+- Axios (for API calls)
+
+**Backend:**
+- Express.js  
+- Node.js  
+- OpenAI API
+
+---
+
